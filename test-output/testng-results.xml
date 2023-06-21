@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-21T04:22:57Z" name="Suite" finished-at="2023-06-21T04:24:51Z" duration-ms="113915">
+    <groups>
+    </groups>
+    <test started-at="2023-06-21T04:22:57Z" name="Test" finished-at="2023-06-21T04:24:51Z" duration-ms="113915">
+      <class name="Test.TestCases">
+        <test-method signature="setDriverMethod()[pri:1, instance:Test.TestCases@5bf0fe62]" started-at="2023-06-21T04:22:57Z" name="setDriverMethod" finished-at="2023-06-21T04:23:09Z" duration-ms="12228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriverMethod -->
+        <test-method signature="loginPageMethod()[pri:2, instance:Test.TestCases@5bf0fe62]" started-at="2023-06-21T04:23:09Z" name="loginPageMethod" finished-at="2023-06-21T04:23:55Z" duration-ms="45863" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageMethod -->
+        <test-method signature="becognizantMethod()[pri:3, instance:Test.TestCases@5bf0fe62]" started-at="2023-06-21T04:23:55Z" name="becognizantMethod" finished-at="2023-06-21T04:24:17Z" duration-ms="21944" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- becognizantMethod -->
+        <test-method signature="detailsGetTextMethod()[pri:4, instance:Test.TestCases@5bf0fe62]" started-at="2023-06-21T04:24:17Z" name="detailsGetTextMethod" finished-at="2023-06-21T04:24:23Z" duration-ms="6055" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- detailsGetTextMethod -->
+        <test-method signature="scrollMethod()[pri:5, instance:Test.TestCases@5bf0fe62]" started-at="2023-06-21T04:24:23Z" name="scrollMethod" finished-at="2023-06-21T04:24:28Z" duration-ms="5145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollMethod -->
+        <test-method signature="searchTruTimeMethod()[pri:6, instance:Test.TestCases@5bf0fe62]" started-at="2023-06-21T04:24:28Z" name="searchTruTimeMethod" finished-at="2023-06-21T04:24:36Z" duration-ms="7885" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTruTimeMethod -->
+        <test-method signature="getDaysFromLocalSysMethod()[pri:7, instance:Test.TestCases@5bf0fe62]" started-at="2023-06-21T04:24:36Z" name="getDaysFromLocalSysMethod" finished-at="2023-06-21T04:24:36Z" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDaysFromLocalSysMethod -->
+        <test-method signature="getDaysFromTrutimeMethod()[pri:8, instance:Test.TestCases@5bf0fe62]" started-at="2023-06-21T04:24:36Z" name="getDaysFromTrutimeMethod" finished-at="2023-06-21T04:24:41Z" duration-ms="5401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDaysFromTrutimeMethod -->
+        <test-method signature="compareDatesMethod()[pri:9, instance:Test.TestCases@5bf0fe62]" started-at="2023-06-21T04:24:41Z" name="compareDatesMethod" finished-at="2023-06-21T04:24:43Z" duration-ms="1939" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compareDatesMethod -->
+        <test-method signature="checkCurrentDateMethod()[pri:10, instance:Test.TestCases@5bf0fe62]" started-at="2023-06-21T04:24:43Z" name="checkCurrentDateMethod" finished-at="2023-06-21T04:24:44Z" duration-ms="189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCurrentDateMethod -->
+        <test-method signature="validateLastTopUpDateMethod()[pri:11, instance:Test.TestCases@5bf0fe62]" started-at="2023-06-21T04:24:44Z" name="validateLastTopUpDateMethod" finished-at="2023-06-21T04:24:44Z" duration-ms="85" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLastTopUpDateMethod -->
+        <test-method signature="driverClose()[pri:12, instance:Test.TestCases@5bf0fe62]" started-at="2023-06-21T04:24:44Z" name="driverClose" finished-at="2023-06-21T04:24:51Z" duration-ms="7053" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+      </class> <!-- Test.TestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

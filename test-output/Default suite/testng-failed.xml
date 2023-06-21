@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="Test.TestCases">
+        <methods>
+          <include name="searchTruTimeMethod"/>
+          <include name="compareDatesMethod"/>
+          <include name="loginPageMethod"/>
+          <include name="scrollMethod"/>
+          <include name="detailsGetTextMethod"/>
+          <include name="validateLastTopUpDateMethod"/>
+          <include name="becognizantMethod"/>
+          <include name="checkCurrentDateMethod"/>
+          <include name="getDaysFromTrutimeMethod"/>
+        </methods>
+      </class> <!-- Test.TestCases -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
